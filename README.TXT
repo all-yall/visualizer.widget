@@ -14,6 +14,7 @@ if you don't have python installed then open up a terminal and
 "brew install python"
 
 
+
 you will also need the following python libraries:
 
 1. scipy
