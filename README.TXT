@@ -19,6 +19,8 @@ if you don't have python installed then open up a terminal and
 “curl -O https://raw.github.com/pypa/pip/master/contrib/get-pip.py”
 “python get-pip.py”
 
+5. Now install a dependent command line tool, run
+“brew install portaudio”
 
 you will also need the following python libraries:
 
@@ -26,13 +28,13 @@ you will also need the following python libraries:
 2. pyaudio 
 3. wave
 
-run "pip install" with them. i.e.
+run "pip install" with them to install. i.e.
 "pip install scipy"
 "pip install pyaudio"
 "pip install wave"
 
 
-Finaly, navigate to the widget and run in your terminal 
+Finally, navigate to the widget and run in your terminal 
 "python vis.py"
 
 the preloaded song is java jive sung by the inkspots.
