@@ -13,6 +13,11 @@ if you don't have python installed then open up a terminal and
 3. Install python! run:
 "brew install python"
 
+4. Install pip (it’s for installing the dependent libraries) run:
+“curl -O http://python-distribute.org/distribute_setup.py”
+“python distribute_setup.py”
+“curl -O https://raw.github.com/pypa/pip/master/contrib/get-pip.py”
+“python get-pip.py”
 
 
 you will also need the following python libraries:
